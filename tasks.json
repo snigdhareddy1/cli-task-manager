@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Learn Python",
+        "due": "2026-12-13",
+        "status": "completed"
+    },
+    {
+        "id": 2,
+        "title": "Complete assignment",
+        "due": null,
+        "status": "pending"
+    }
+]
